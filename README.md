@@ -13,8 +13,7 @@
 *Vstupte s námi do světa IT, kde se neustále učíme, objevujeme a rosteme.*
 
 *S pozdravem,*
-
-*[Matěj](odkaz na socku.)*
+*Matěj*
 
 <br>
 
