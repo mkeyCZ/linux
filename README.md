@@ -32,6 +32,6 @@
 
 - ANDROID
   
-- **LINUX** *je open-source operační systém, který poskytuje základní software a nástroje pro správu počítače. Je založen na jádře Linuxu a běží na různých zařízeních, od osobních počítačů po servery a vestavěné systémy. Linux je známý svou spolehlivostí, bezpečností a flexibilitou a je oblíbeným operačním systémem v komunitě open-source a mezi profesionálními uživateli.*  
+- [**LINUX**](https://github.com/mkeyCZ/navody/blob/main/Linux/README.md) *je open-source operační systém, který poskytuje základní software a nástroje pro správu počítače. Je založen na jádře Linuxu a běží na různých zařízeních, od osobních počítačů po servery a vestavěné systémy. Linux je známý svou spolehlivostí, bezpečností a flexibilitou a je oblíbeným operačním systémem v komunitě open-source a mezi profesionálními uživateli.*  
 
 - **WINDOWS** *je uzavřený operační systém vyvinutý společností Microsoft, který běží na široké škále zařízení, včetně osobních počítačů, notebooků, tabletů a serverů. Je často využíván v domácím prostředí, v podnicích a ve vzdělávacích institucích.*
