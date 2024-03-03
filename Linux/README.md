@@ -1,7 +1,7 @@
 
 <!-- úvod do linuxu, možná přidat jeho výhody/nevýhody -->
 
-**Úvod do linuxu**
+# Úvod do linuxu
 
 *Linux představuje operační systém založený na otevřeném softwaru, který se stal symbolem flexibility, spolehlivosti a inovace v oblasti počítačových technologií.* 
 
@@ -19,7 +19,9 @@
 
 <!-- Zkrácené povídání o linux distribucí možná přidat odkaz na distrubuce -->
 
-**Hlavní linux distrubuce:**
+<br>
+
+### Hlavní linux distrubuce:
 
 **Fedora**: je vyvíjena a podporována společností Red Hat, Fedora je známá pro svou aktuálnost a věnování se novým technologiím. Je to ideální distribuce pro ty, kteří chtějí být blízko špičkových technologií a experimentovat s nejnovějšími funkcemi. Fedora používá balíčkovací systém RPM (Red Hat Package Manager).
 
@@ -33,9 +35,11 @@
 
 <img src="https://imageio.forbes.com/specials-images/imageserve/5dc1a7ccca425400079c78c4/A-few-Linux-distros-to-choose-from-----/960x0.jpg?height=287&width=711&fit=bounds" alt="Linux logo" width="2000" height="">
 
+<br>
+
 <!-- DOPORUČENÍ na konktétní linux ditribuci pro začátečníky -->
 
-**Linux Mint: Skvělá Volba pro Začátečníky**
+### [Linux Mint](https://linuxmint.com/download.php): Skvělá Volba pro Začátečníky
 
 Pro ty, kdo váhají přejít na Linux, je Linux Mint často první volbou. Tato distribuce nabízí jednoduchou instalaci a uživatelsky přívětivé prostředí, což je ideální pro ty, kteří právě začínají s používáním tohoto operačního systému. S desktopovým prostředím Cinnamon, které připomíná rozhraní Windows, se uživatelé snadno orientují a mohou se rychle přizpůsobit novému prostředí. Pro ty, kteří preferují lehčí varianty, existují také edice s desktopovými prostředími MATE a Xfce.
 
@@ -43,20 +47,20 @@ Jedním z klíčových prvků Linux Mintu je jeho stabilita a spolehlivost, kter
 
 <!-- ODKAZY kde začít a přečíst si o linuxu -->
 
-**Kde je vhodné si o linuxu přečíst a kam zajít pro případnou radu:**
+### Prozkoumejte svět Linuxu: Zdroje rad, článků a inspirace pro začátečníky i pokročilé:
 
-Web stránky:
+### Web stránky:
 
-- ROOT.CZ
-- LINUXEXPRES.CZ
-- ABCLINUXU.CZ
-- AŽ BUDE HOTOVO ODKAZ na: LINUXPROZAČÁTEČNÍKY
+- [ROOT](https://www.root.cz)
+- [LINUXEXPRES](https://www.linuxexpres.cz)
+- [ABCLINUXU](https://www.abclinuxu.cz)
+- [LINUXPROZAČÁTEČNÍKY pozn.:není hotov](url)
 
-Sociální sítě a komunikace:
-- ODKAZ NA DISCORD linux pro začátečníky
-- ODKAZ NA FB: linux pro začátečníky
+### Sociální sítě a komunikace:
+- [DISCORD](https://discord.gg/F8kqVDSp) Linux CZ/SK
+- [FACEBOOK](https://www.facebook.com/share/rm1nmbSntoAQZNxN/?mibextid=K35XfP) linux pro začátečníky
 
-**Obsah na konkrétní návody:**
+### Obsah na konkrétní návody:
 
 - LinuxMint
 - Debian
